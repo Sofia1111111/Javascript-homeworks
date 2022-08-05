@@ -361,7 +361,7 @@ console.log(result);
 //input example
 let form1 = document.querySelector('.formwrapper1');
 let inputToDo1 = document.querySelector('.input-form1');
-let ulToDo = document.querySelector('.ul-list-todo1');
+let ulToDo1 = document.querySelector('.ul-list-todo1');
 
 form1.addEventListener('submit', (event2){
     event2.preventDefault();
